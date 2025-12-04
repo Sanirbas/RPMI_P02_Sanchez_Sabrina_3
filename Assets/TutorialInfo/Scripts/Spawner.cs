@@ -7,10 +7,6 @@ public class Spawner : MonoBehaviour
 {
     public GameObject adventurer;
     public Transform SpawnPoint;
- 
-
-
-    public float radius = 50f;
 
  
     private void OnMouseDown()
